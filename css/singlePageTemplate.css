@@ -73,7 +73,8 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-color: #B3B3B3;
+	/*background-color: #B3B3B3;*/
+	background-image: url("images/whitechairs.jpeg");
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
